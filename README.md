@@ -9,6 +9,8 @@ En aquest document es detallen dues propostes: Minecraft Education Edition i The
 
 Minecraft Education Edition és una versió educativa del popular videojoc Minecraft que s'ha adaptat per a usos didàctics a l'aula. L'objectiu principal d'aquesta eina és integrar l'aprenentatge interactiu amb la creativitat del joc. Però, més enllà de la seva utilitat pedagògica, Minecraft Education Edition constitueix un clar exemple de hibridació cultural tal com l'entén Manovich, ja que fusiona característiques pròpies del videojoc (narrativa interactiva, entorn virtual i construcció en temps real) amb objectius tradicionals de l'educació formal.
 
+![Image of Minecraft Education Edition](https://github.com/pauruizsuris/PAC3_Manovich_Reloaded/blob/main/Images/minecraft-education-edition.jpeg)
+
 ---
 
 ### _Modularitat i representació numèrica_
@@ -38,6 +40,8 @@ Minecraft Education Edition redefineix la manera en què s'imparteix l'educació
 
 Els projectes de realitat augmentada (AR) de The New York Times representen una hibridació entre el periodisme tradicional i les noves tecnologies. Aquesta proposta redefineix la narrativa periodística, afegint capes d'interactivitat i immersió que permeten als lectors connectar amb la informació d'una manera nova. Mitjançant la tecnologia AR, el New York Times incorpora imatges 3D interactives en els seus articles, les quals poden ser explorades a través de dispositius mòbils.
 
+![Image of NYT: AR](https://github.com/pauruizsuris/PAC3_Manovich_Reloaded/blob/main/Images/new-york-times-ar.jpg)
+
 ---
 
 ### _Variabilitat i modularitat_
@@ -59,3 +63,8 @@ Els projectes AR del New York Times tenen un impacte cultural profund, ja que tr
 ## Conclusions
 
 Tant Minecraft Education Edition com els projectes AR de The New York Times són exemples clars de l'hibridació cultural en els nous mitjans segons Manovich. Aquests casos no només il·lustren la fusó entre mitjans tradicionals i digitals, sinó que també demostren com aquestes hibridacions poden generar experiències culturals innovadores i significatives en àmbits com l'educació i la comunicació.
+
+## Refrències
+
+- Image of Minecraft Education Edition: https://www.interempresas.net/Tecnologia-aulas/Articulos/372073-Minecraft-Education-Edition-el-videojuego-como-herramienta-educativa.html
+- Image of NYT: AR: https://www.nytimes.com/interactive/2018/02/01/sports/olympics/nyt-ar-augmented-reality-guide.html
