@@ -1,6 +1,8 @@
 # PAC3_Manovich_Reloaded
 UOC - Cultura Digital - PAC03: Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 
+Autor: Pau Ruiz Suris
+
 ## Introducció de l'activitat
 Seguint el concepte de nous mitjans i hibridació desenvolupat per Lev Manovich, es proposen dues iniciatives les quals mostren la fusió de mitjans tradicionals i digitals. En aquesta activitat es demana explorar casos on es combinen característiques de diferents mitjans sense perdre la seva essència individual. Manovich defineix els nous mitjans com aquells que sorgeixen de la digitalització i que presenten una sèrie de característiques clau: representació numèrica, modularitat, automatització, variabilitat i transcodificació cultural.
 En aquest assaig es detallen i s'expliquen dues propostes: Minecraft Education Edition i The New York Times AR Projects. Cadascuna d'elles es presenta com un cas d'hibridació cultural on es fusionen elements de diferents mitjans per crear experiències significatives en l'àmbit de l'educació i la informació.
